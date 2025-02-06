@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main(){
-    float number;
+    float 3.14;
     printf(" You entered: 3.14");
 
 
