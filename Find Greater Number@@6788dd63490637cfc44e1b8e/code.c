@@ -1,10 +1,10 @@
 #include <stdio.h>
 
 int main(){
-    int 5,10;
+    int a,b;
     scanf("%d %d",&a,&b);
 
-    if(5>10){
+    if(a>b){
         printf("a");
     }
     else {
