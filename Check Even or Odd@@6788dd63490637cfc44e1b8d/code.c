@@ -7,10 +7,10 @@ int main(){
 
 
 if(a%2==0){
-    printf("%d is even",a);
+    printf("Even");
 }
 else{
-    printf("%d is odd");
+    printf("Odd");
 }
 
 return 0;
