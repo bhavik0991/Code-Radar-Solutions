@@ -9,7 +9,7 @@ int main(){
         printf("True");
     }
     else{
-        printf("b is greater than b");
+        printf("False");
     }
     return 0;
 }
