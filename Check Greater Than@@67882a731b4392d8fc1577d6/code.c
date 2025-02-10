@@ -2,11 +2,11 @@
 
 int main(){
     int a,b;
-    printf("enter number");
+   
     scanf("%d %d",&a,&b);
 
     if(a>b){
-        printf("a is greater than b");
+        printf("True");
     }
     else{
         printf("b is greater than b");
