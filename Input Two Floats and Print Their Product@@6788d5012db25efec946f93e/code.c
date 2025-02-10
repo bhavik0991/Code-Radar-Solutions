@@ -3,10 +3,10 @@
 int main(){
     float a,b;
     scanf("%f",&a);
-
+    printf("\t");
     scanf("%f",&b);
 
     float multiply=a*b;
-    printf("Product: %f",multiply);
+    printf("Product: %.2f",multiply);
     return 0;
 }
