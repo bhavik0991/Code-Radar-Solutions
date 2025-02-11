@@ -1,17 +1,20 @@
 #include <stdio.h>
 
-int main(){
+int main()
+{
     int a,b,c;
     scanf("%d %d %d",&a,&b,&c);
-
-    if(a>b && a>c){
+    if(a>b && a>c)
+    {
         printf("%d",a);
     }
-    else if(b>c){
+    else if(b>c)
+    {
         printf("%d",b);
     }
-    else{
-        printf("%c",c);
+    else
+    {
+        printf("%d",c);
     }
     return 0;
 }
