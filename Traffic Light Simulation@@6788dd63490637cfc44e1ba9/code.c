@@ -11,7 +11,7 @@ else if(a=='G'){
 }
 
 else{
-    printf("Slow Down");
+    printf("Invalid Input");
 }
 return 0;
 }
