@@ -10,7 +10,7 @@ int main(){
     }
     else{
 
-        for(i=2;i<a,i++){
+        for(i=2,i<a,i++){
             if(a%i==0){
 
             
