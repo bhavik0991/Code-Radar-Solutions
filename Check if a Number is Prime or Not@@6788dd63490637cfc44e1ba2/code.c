@@ -15,7 +15,7 @@ int main(){
 
             
         
-        printf(" Not Prime");
+        printf("Not Prime");
         return 0;
             }
         }
