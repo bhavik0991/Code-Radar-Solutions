@@ -3,13 +3,16 @@ int main(){
     char name;
     int age;
     char hobby;
-    scanf("%c",&name);
+    printf("Name:");
+    scanf("%s",&name);
+    printf("Age:");
     scanf("%d",&age);
+    printf("Hobby:");
     scanf("%c",&hobby);
 
-    printf("Name:%c\n");
-    printf("Age:%d\n");
-    printf("Hobby:%c");
+    printf("Name:%s\n",name);
+    printf("Age:%d\n",age);
+    printf("Hobby:%c",hobby);
 
     return 0;
 }
