@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main(){
-    char name;
+    char name[100];
     int age;
     char hobby;
     printf("Name:");
