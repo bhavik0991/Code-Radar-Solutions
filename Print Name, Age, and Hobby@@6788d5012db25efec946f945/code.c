@@ -4,15 +4,15 @@ int main(){
     int age;
     char hobby;
     printf("Name:");
-    scanf("%s",&Name);
+    scanf("%s",&name);
     printf("Age:");
-    scanf("%d",&Age);
+    scanf("%d",&age);
     printf("Hobby:");
-    scanf("%c",&Hobby);
+    scanf("%c",&hobby);
 
-    printf("Name:%s\n",Name);
-    printf("Age:%d\n",Age);
-    printf("Hobby:%c",Hobby);
+    printf("Name:%s\n",name);
+    printf("Age:%d\n",age);
+    printf("Hobby:%c",hobby);
 
     return 0;
 }
