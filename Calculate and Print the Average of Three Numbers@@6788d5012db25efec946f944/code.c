@@ -5,7 +5,7 @@ int main(){
 
     average=(a+b+c)/3;
 
-    printf("Average:",a,b,c,average);
+    printf("Average:%.2f/n",a,b,c,average);
 
     return 0;
 }
