@@ -4,7 +4,7 @@ int main() {
     int rows, a,b;
 
     
-    printf("Enter the number of rows: ");
+    printf("* ");
     scanf("%d", &rows);
 
     
