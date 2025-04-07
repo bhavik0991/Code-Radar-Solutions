@@ -1,7 +1,8 @@
 #include<stdio.h>
 int main(){
-    int i=1;
-    for(i=1;i<=100;i++){
+    int n,i;
+    scanf("%d",&n);
+    for(i=1;i<=n;i++){
         printf("%d",i);
     }
     return 0;
